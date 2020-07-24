@@ -1,0 +1,43 @@
+$height-sections: 700px;
+$teg-size: 35px;
+body{
+  color: white;
+}
+header{
+  background-color: #b0ceb0;
+  font-size: $teg-size;
+  color: white;
+  padding: 20px;
+}
+nav{
+  background-color: #67bc65;
+  font-size: $teg-size;
+  padding: 20px;
+}
+#sidebar {
+  width: 250px;
+  float: left;
+  height: $height-sections;
+  background-color: #5891d6;
+  font-size: $teg-size;
+  padding: 20px;
+}
+#content {
+  background-color: #95b3d9;
+  height: $height-sections;
+  font-size: $teg-size;
+  padding: 20px;
+}
+aside {
+  width: 250px;
+  float: right;
+  height: $height-sections;
+  background-color: #5891d6;
+  font-size: $teg-size;
+  padding: 20px;
+}
+footer{
+  background-color: #b0ceb0;
+  font-size: $teg-size;
+  padding: 20px;
+}
