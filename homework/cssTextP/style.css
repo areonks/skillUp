@@ -1,0 +1,43 @@
+p {
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.4;
+  letter-spacing: 0.05em;
+  color: green;
+  text-align: justify;
+}
+
+.fa-facebook {
+  color: #777777;
+}
+.fa-facebook:hover {
+  color: #4865ab;
+}
+
+.fa-youtube {
+  color: #777777;
+}
+.fa-youtube:hover {
+  color: crimson;
+}
+
+.fa-instagram {
+  border: solid 1px #ffffff;
+  color: #777777;
+}
+.fa-instagram:hover {
+  color: white;
+  background: linear-gradient(90deg, #fcb045 0%, #fd1d1d 50%, #833ab4 100%);
+  border-left: solid 1px #fcb045;
+  border-right: solid 1px #833ab4;
+  border-bottom: none;
+  border-top: none;
+}
+
+.fa-pinterest {
+  color: #777777;
+}
+.fa-pinterest:hover {
+  color: #c31f28;
+}
+
+/*# sourceMappingURL=style.css.map */
