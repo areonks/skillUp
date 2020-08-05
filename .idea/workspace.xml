@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="025aa2d8-fec9-401b-9986-d4742fb24cb4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/homework/HtmlTags/table/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/HtmlTags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework/HtmlTags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/HtmlTags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework/HtmlTags/list/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,19 +31,21 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/homework" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/homework/HtmlTags/table" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\areon\Desktop\skillUp\skillUp\homework\HtmlTags\list" />
+      <recent name="C:\Users\areon\Desktop\skillUp\skillUp\homework" />
+      <recent name="C:\Users\areon\Desktop\skillUp\skillUp" />
+      <recent name="C:\Users\areon\Desktop\skillUp\skillUp\lesson3" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\areon\Desktop\skillUp\skillUp\homework\HtmlTags\table" />
       <recent name="C:\Users\areon\Desktop\skillUp\skillUp\homework" />
       <recent name="C:\Users\areon\Desktop\skillUp\skillUp\homework\cssTextP" />
       <recent name="C:\Users\areon\Desktop\skillUp\skillUp\homework\HtmlIntro\page" />
-      <recent name="C:\Users\areon\Desktop\skillUp\skillUp\lesson3" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\areon\Desktop\skillUp\skillUp\homework" />
-      <recent name="C:\Users\areon\Desktop\skillUp\skillUp" />
       <recent name="C:\Users\areon\Desktop\skillUp\skillUp\lesson3" />
     </key>
   </component>
@@ -61,7 +64,7 @@
       <workItem from="1595831588742" duration="657000" />
       <workItem from="1595951846501" duration="1229000" />
       <workItem from="1596263139284" duration="12682000" />
-      <workItem from="1596648354510" duration="1535000" />
+      <workItem from="1596648354510" duration="3703000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1595443802144</created>
@@ -98,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596294567268</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="list homework in done">
+      <created>1596650937881</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1596650937881</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,17 +120,18 @@
     <MESSAGE value="homework lesson 2 is done" />
     <MESSAGE value="homework 1 and 3 are done" />
     <MESSAGE value="refactoring" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactoring" />
+    <MESSAGE value="list homework in done" />
+    <option name="LAST_COMMIT_MESSAGE" value="list homework in done" />
   </component>
   <component name="WindowStateProjectService">
     <state x="213" y="325" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596284428999">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="213" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1596284428999" />
-    <state x="112" y="97" key="CommitChangelistDialog2" timestamp="1596294566342">
+    <state x="112" y="97" key="CommitChangelistDialog2" timestamp="1596650936559">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="112" y="97" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1596294566342" />
+    <state x="112" y="97" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1596650936559" />
     <state x="156" y="298" key="EditFileWatcherDialog" timestamp="1595951921208">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -129,9 +140,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="260" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595832007149" />
-    <state x="79" y="253" key="Vcs.Push.Dialog.v2" timestamp="1596294569162">
+    <state x="79" y="253" key="Vcs.Push.Dialog.v2" timestamp="1596650941561">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="79" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1596294569162" />
+    <state x="79" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1596650941561" />
   </component>
 </project>
