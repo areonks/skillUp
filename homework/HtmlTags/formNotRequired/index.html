@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<form id="fruitSurvey">
+<table>
+    <tr>
+       <th colspan="3">The World of Fruit</th>
+    </tr>
+    <tr>
+        <td id="SurveyName" colspan="3">Fruit Survey</td>
+    </tr>
+    <tr>
+        <td class="leftCol">Name</td>
+        <td>
+            <INPUT type="input" required>
+        </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td class="leftCol">Address</td>
+        <td>
+            <INPUT type="input" required>
+        </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td class="leftCol" >Email</td>
+        <td>
+            <INPUT type="email" required>
+        </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td class="leftCol" valign="top">How many pieces of fruit<br>  do you eat per day</td>
+        <td>
+            <INPUT type="radio" name="radioButton" required="required" value="0"> 0<br>
+            <INPUT type="radio" name="radioButton" required="required" value="1"> 1<br>
+            <INPUT type="radio" name="radioButton" required="required" value="2"> 2<br>
+            <INPUT type="radio" name="radioButton" required="required" value="3"> More than 2
+        </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td class="leftCol" valign="top">My favorite fruit</td>
+        <td>
+            <select form="fruitSurvey" multiple="multiple" required="required" size="4">
+                <option value="I">Apple</option>
+                <option value="II">Banana</option>
+                <option value="III">Plump</option>
+                <option value="IV">Pomegranate</option>
+                <option value="V">Orange</option>
+                <option value="VI">Peach</option>
+            </select>
+        </td>
+    </tr>
+    <tr>
+        <td class="leftCol">Would you like a <br> brochure?</td>
+        <td>
+            <INPUT type="checkbox">
+
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>
+            <input type="submit" value="Submit">
+        </td>
+        <td></td>
+    </tr>
+</table>
+</form>
+</body>
+</html>
