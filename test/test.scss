@@ -1,0 +1,11 @@
+span{
+  font-family: "Roboto Light", "Montserrat", sans-serif;
+  font-size: 20px;
+  text-transform: uppercase;
+  &:before {
+    content: '"';
+  }
+  &:after {
+  content: '"';
+  }
+}

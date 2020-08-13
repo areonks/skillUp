@@ -1,0 +1,20 @@
+table {
+  background-color: #fdfd99;
+}
+table th {
+  background-color: #ffbc11;
+}
+table td {
+  padding: 5px;
+  width: 180px;
+}
+
+#SurveyName {
+  text-align: center;
+}
+
+.leftCol {
+  text-align: right;
+}
+
+/*# sourceMappingURL=style.css.map */

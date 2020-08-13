@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<form id="fruitSurvey">
+
+    <div>
+       <div colspan="3">The World of Fruit</div>
+    </div>
+    <div>
+        <div id="SurveyName" colspan="3">Fruit Survey</div>
+    </div>
+    <div>
+        <div class="leftCol">Name</div>
+        <div>
+            <INPUT type="text" required>
+        </div>
+        <div></div>
+    </div>
+    <div>
+        <div class="leftCol">Address</div>
+        <div>
+            <INPUT type="text" required>
+        </div>
+        <div></div>
+    </div>
+    <div>
+        <div class="leftCol" >Email</div>
+        <div>
+            <INPUT type="email" required>
+        </div>
+        <div></div>
+    </div>
+    <div>
+        <div class="leftCol" valign="top">How many pieces of fruit<br>  do you eat per day</div>
+        <div>
+            <INPUT type="radio" name="radioButton" required="required" value="0"> 0<br>
+            <INPUT type="radio" name="radioButton" required="required" value="1"> 1<br>
+            <INPUT type="radio" name="radioButton" required="required" value="2"> 2<br>
+            <INPUT type="radio" name="radioButton" required="required" value="3"> More than 2
+        </div>
+        <div></div>
+    </div>
+    <div>
+        <div class="leftCol" valign="top">My favorite fruit</div>
+        <div>
+            <select form="fruitSurvey" multiple="multiple" required="required" size="4">
+                <option value="I">Apple</option>
+                <option value="II">Banana</option>
+                <option value="III">Plump</option>
+                <option value="IV">Pomegranate</option>
+                <option value="V">Orange</option>
+                <option value="VI">Peach</option>
+            </select>
+        </div>
+        <div></div>
+    </div>
+    <div>
+        <div class="leftCol">Would you like a <br> brochure?</div>
+        <div>
+            <INPUT type="checkbox">
+
+        </div>
+        <div></div>
+    </div>
+    <div>
+        <div></div>
+        <div>
+            <input type="submit" value="Submit">
+        </div>
+        <div></div>
+    </div>
+</table>
+</form>
+</body>
+</html>
