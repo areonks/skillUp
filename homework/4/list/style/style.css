@@ -1,0 +1,19 @@
+p {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+li {
+  font-family: "Arial";
+}
+li:nth-last-child(1) {
+  color: limegreen;
+  font-style: italic;
+}
+li:nth-last-child(5) {
+  color: deeppink;
+  font-weight: bolder;
+}
+
+/*# sourceMappingURL=style.css.map */
