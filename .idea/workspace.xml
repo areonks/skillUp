@@ -2,63 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="025aa2d8-fec9-401b-9986-d4742fb24cb4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ClassWork/lesson5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClassWork/lesson5/tyle.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClassWork/lesson6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClassWork/lesson6/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/3/HtmlTags/formNotRequired2.0/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/3/HtmlTags/formNotRequired2.0/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/3/HtmlTags/formNotRequired2.0/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/3/HtmlTags/formNotRequired2.0/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/4/homeWorkLesson2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/4/homeWorkLesson2/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/4/homeWorkLesson2/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/4/list/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/4/list/style/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/HtmlIntro/img/get_started32.png" beforeDir="false" afterPath="$PROJECT_DIR$/homework/3/HtmlIntro/img/get_started32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/HtmlIntro/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework/3/HtmlIntro/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/HtmlIntro/page/cocktail.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework/3/HtmlIntro/page/cocktail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/HtmlIntro/page/glass.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework/3/HtmlIntro/page/glass.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/HtmlIntro/page/ingredient.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework/3/HtmlIntro/page/ingredient.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/HtmlTags/form/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework/3/HtmlTags/form/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/HtmlTags/formNotRequired/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework/3/HtmlTags/formNotRequired/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/HtmlTags/formNotRequired/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework/3/HtmlTags/formNotRequired/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/HtmlTags/formNotRequired/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/homework/3/HtmlTags/formNotRequired/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/HtmlTags/formNotRequired/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/homework/3/HtmlTags/formNotRequired/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/HtmlTags/list/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework/3/HtmlTags/list/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/HtmlTags/table/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework/3/HtmlTags/table/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/cssTextP/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework/3/cssTextP/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/cssTextP/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework/3/cssTextP/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/cssTextP/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/homework/3/cssTextP/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/cssTextP/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/homework/3/cssTextP/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/homeWorkLesson2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework/2/homeWorkLesson2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/homeWorkLesson2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework/2/homeWorkLesson2/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/homeWorkLesson2/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/homework/2/homeWorkLesson2/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson 1 - intro html/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ClassWork/lesson 1 - intro html/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson 1 - intro html/.idea/skillUp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ClassWork/lesson 1 - intro html/.idea/skillUp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson 1 - intro html/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ClassWork/lesson 1 - intro html/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson 1 - intro html/new.html" beforeDir="false" afterPath="$PROJECT_DIR$/ClassWork/lesson 1 - intro html/new.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson 1 - intro html/prepros.config" beforeDir="false" afterPath="$PROJECT_DIR$/ClassWork/lesson 1 - intro html/prepros.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson 1 - intro html/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/ClassWork/lesson 1 - intro html/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson 1 - intro html/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/ClassWork/lesson 1 - intro html/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ClassWork/lesson2/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/.idea/skillUp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ClassWork/lesson2/.idea/skillUp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ClassWork/lesson2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/new.html" beforeDir="false" afterPath="$PROJECT_DIR$/ClassWork/lesson2/new.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/prepros.config" beforeDir="false" afterPath="$PROJECT_DIR$/ClassWork/lesson2/prepros.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/ClassWork/lesson2/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/ClassWork/lesson2/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/new.html" beforeDir="false" afterPath="$PROJECT_DIR$/ClassWork/lesson3/new.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/prepros.config" beforeDir="false" afterPath="$PROJECT_DIR$/ClassWork/lesson3/prepros.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/ClassWork/lesson3/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/ClassWork/lesson3/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/ClassWork/lesson3/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/new.html" beforeDir="false" afterPath="$PROJECT_DIR$/ClassWork/lesson4/new.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/prepros.config" beforeDir="false" afterPath="$PROJECT_DIR$/ClassWork/lesson4/prepros.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/ClassWork/lesson4/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/ClassWork/lesson4/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/ClassWork/lesson4/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/4/list/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework/4/list/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework/4/text/css/test.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/homework/4/text/css/test.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework/4/text/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test.scss" beforeDir="false" afterPath="$PROJECT_DIR$/homework/4/text/css/test.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +76,8 @@
       <workItem from="1597075656875" duration="2581000" />
       <workItem from="1597163689890" duration="2060000" />
       <workItem from="1597244769739" duration="1408000" />
-      <workItem from="1597335255265" duration="4806000" />
+      <workItem from="1597335255265" duration="5320000" />
+      <workItem from="1597597580466" duration="1698000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1595443802144</created>
@@ -198,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596806959480</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="code refactoring">
+      <created>1597343005531</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1597343005532</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,10 +180,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="213" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1596284428999" />
-    <state x="112" y="97" key="CommitChangelistDialog2" timestamp="1596806958437">
+    <state x="112" y="97" key="CommitChangelistDialog2" timestamp="1597343004091">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="112" y="97" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1596806958437" />
+    <state x="112" y="97" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1597343004091" />
     <state x="156" y="298" key="EditFileWatcherDialog" timestamp="1595951921208">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -234,10 +192,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="260" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595832007149" />
-    <state x="79" y="253" key="Vcs.Push.Dialog.v2" timestamp="1596806962119">
+    <state x="79" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597343008963">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="79" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1596806962119" />
+    <state x="79" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597343008963" />
     <state x="136" y="244" key="run.anything.popup" timestamp="1596792501700">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
