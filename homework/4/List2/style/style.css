@@ -1,0 +1,36 @@
+body {
+  vertical-align: middle;
+}
+
+span {
+  top: 40%;
+  position: relative;
+  text-align: center;
+}
+
+li {
+  width: 250px;
+  height: 100px;
+  margin: 2px;
+  display: inline-block;
+  background: darkgray;
+  border: solid 1px gray;
+  text-align: center;
+  font-family: "Arial";
+}
+li:nth-last-child(1) {
+  background-color: #87be8a;
+  border-color: #1c5d25;
+}
+li:nth-last-child(5) {
+  background-color: #87be8a;
+  border-color: #1c5d25;
+  text-align: center;
+}
+
+Ul {
+  LIST-style-type: none;
+  width: 800px;
+}
+
+/*# sourceMappingURL=style.css.map */

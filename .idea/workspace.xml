@@ -2,13 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="025aa2d8-fec9-401b-9986-d4742fb24cb4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/homework/4/list/style/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/4/List2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/4/List2/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/4/List2/style/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/4/List2/style/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/4/block/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/4/block/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/4/block/style/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/4/block/style/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/4/list/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework/4/list/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework/4/text/css/test.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/homework/4/text/css/test.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework/4/text/test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test.scss" beforeDir="false" afterPath="$PROJECT_DIR$/homework/4/text/css/test.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/4/homeWorkLesson2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework/4/FLOAT/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/4/homeWorkLesson2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework/4/FLOAT/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/4/homeWorkLesson2/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/homework/4/FLOAT/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/4/homeWorkLesson2/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/homework/4/FLOAT/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +41,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/homework/4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/homework/4/block" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
   </component>
   <component name="RecentsManager">
@@ -47,11 +53,11 @@
       <recent name="C:\Users\areon\Desktop\skillUp\skillUp\homework\HtmlTags\list" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\areon\Desktop\skillUp\skillUp\homework\4\block" />
+      <recent name="C:\Users\areon\Desktop\skillUp\skillUp\homework\4\List2" />
       <recent name="C:\Users\areon\Desktop\skillUp\skillUp\homework\4" />
       <recent name="C:\Users\areon\Desktop\skillUp\skillUp\homework\HtmlTags" />
       <recent name="C:\Users\areon\Desktop\skillUp\skillUp" />
-      <recent name="C:\Users\areon\Desktop\skillUp\skillUp\homework\HtmlTags\form" />
-      <recent name="C:\Users\areon\Desktop\skillUp\skillUp\homework\HtmlTags\table" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -77,7 +83,8 @@
       <workItem from="1597163689890" duration="2060000" />
       <workItem from="1597244769739" duration="1408000" />
       <workItem from="1597335255265" duration="5320000" />
-      <workItem from="1597597580466" duration="1698000" />
+      <workItem from="1597597580466" duration="3405000" />
+      <workItem from="1597679837892" duration="7792000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1595443802144</created>
@@ -156,7 +163,21 @@
       <option name="project" value="LOCAL" />
       <updated>1597343005532</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="list is done, HW4">
+      <created>1597599527279</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1597599527280</updated>
+    </task>
+    <task id="LOCAL-00013" summary="list is done, HW4">
+      <created>1597599542627</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1597599542627</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,17 +194,18 @@
     <MESSAGE value="form homework in done" />
     <MESSAGE value="form &quot;not required&quot; homework in done&#10;table used" />
     <MESSAGE value="code refactoring" />
-    <option name="LAST_COMMIT_MESSAGE" value="code refactoring" />
+    <MESSAGE value="list is done, HW4" />
+    <option name="LAST_COMMIT_MESSAGE" value="list is done, HW4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="213" y="325" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596284428999">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="213" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1596284428999" />
-    <state x="112" y="97" key="CommitChangelistDialog2" timestamp="1597343004091">
+    <state x="427" y="87" key="CommitChangelistDialog2" timestamp="1597599541587">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="112" y="97" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1597343004091" />
+    <state x="427" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1597599541587" />
     <state x="156" y="298" key="EditFileWatcherDialog" timestamp="1595951921208">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -192,10 +214,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="260" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595832007149" />
-    <state x="79" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597343008963">
+    <state x="79" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597599545141">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="79" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597343008963" />
+    <state x="79" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597599545141" />
     <state x="136" y="244" key="run.anything.popup" timestamp="1596792501700">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
