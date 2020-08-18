@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="025aa2d8-fec9-401b-9986-d4742fb24cb4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/homework/4/List2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/4/List2/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/4/List2/style/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/4/List2/style/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/4/block/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/4/block/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/4/block/style/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/4/block/style/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/5/style/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/4/homeWorkLesson2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework/4/FLOAT/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/4/homeWorkLesson2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework/4/FLOAT/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/4/homeWorkLesson2/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/homework/4/FLOAT/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/4/homeWorkLesson2/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/homework/4/FLOAT/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +74,7 @@
       <workItem from="1597244769739" duration="1408000" />
       <workItem from="1597335255265" duration="5320000" />
       <workItem from="1597597580466" duration="3405000" />
-      <workItem from="1597679837892" duration="7792000" />
+      <workItem from="1597679837892" duration="9044000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1595443802144</created>
@@ -177,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597599542627</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="block is done, HW4">
+      <created>1597687700768</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1597687700768</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,17 +192,18 @@
     <MESSAGE value="form &quot;not required&quot; homework in done&#10;table used" />
     <MESSAGE value="code refactoring" />
     <MESSAGE value="list is done, HW4" />
-    <option name="LAST_COMMIT_MESSAGE" value="list is done, HW4" />
+    <MESSAGE value="block is done, HW4" />
+    <option name="LAST_COMMIT_MESSAGE" value="block is done, HW4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="213" y="325" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596284428999">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="213" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1596284428999" />
-    <state x="427" y="87" key="CommitChangelistDialog2" timestamp="1597599541587">
+    <state x="427" y="87" key="CommitChangelistDialog2" timestamp="1597687699321">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="427" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1597599541587" />
+    <state x="427" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1597687699321" />
     <state x="156" y="298" key="EditFileWatcherDialog" timestamp="1595951921208">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -214,10 +212,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="260" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595832007149" />
-    <state x="79" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597599545141">
+    <state x="79" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597687703811">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="79" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597599545141" />
+    <state x="79" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597687703811" />
     <state x="136" y="244" key="run.anything.popup" timestamp="1596792501700">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
